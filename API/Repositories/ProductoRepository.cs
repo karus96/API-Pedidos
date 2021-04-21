@@ -27,7 +27,6 @@ namespace API
         public Producto OptenerProducto(int id){
             var x=db.Productos.Find(id);
             return db.Productos.Find(id);
-        }
-     
+        }     
     }
 }

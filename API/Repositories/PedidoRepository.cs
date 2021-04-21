@@ -48,7 +48,14 @@ namespace API
 
         public string BorrarPedido(int id)
         {            
-            db.Productos.Remove(db.Productos.Find(id));
+          
+           foreach (var item in db.ProductoObjeto)
+           {
+              if(item.IDPedido==id){
+                db.ProductoObjeto.Remove(db.ProductoObjeto.Find(item.ID));
+              }
+           }
+            db.Pedidos.Remove(db.Pedidos.Find(id));
             db.SaveChanges();             
             return "Pedido borrado con el: "+id;
         }

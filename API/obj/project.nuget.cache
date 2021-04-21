@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XzE8G/5jPEJKptiqv8syz40RvhsnorAJjSleJlKTx9cHSAgBhLkRtdxRIirrcnc1MHojLIdthQ1u0NMgCNkXaQ==",
+  "dgSpecHash": "2t5hCUu3+vo/X9Oj0M6Xo6YcggrOFqKrEc4llzGw8nb61CjOmkFnqE4yIvjAr4RR4Ev8bvF1Z85qBY6EhMsqtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ricar\\Desktop\\Proyecto final funda vida\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\ricar\\Desktop\\Proyecto final funda vida\\API-Pedidos\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ricar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ricar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

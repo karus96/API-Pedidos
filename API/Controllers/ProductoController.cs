@@ -33,9 +33,9 @@ namespace API
         public string ActualizarProducto( [FromBody]Producto producto)
         {
             Producto nProducto=  productoRespostory.OptenerProducto(producto.Id);
-            productoRespostory.BorrarProducto(nProducto.Id);
+            productoRespostory.BorrarProducto(producto.Id);
             productoRespostory.AgregarProducto(producto);
-            return "Procuto actualizado: "+producto.Id;
+            return "Producto actualizado: "+producto.Id;
         }
         [HttpDelete]
         public string BorrarProducto([FromQuery] int id)

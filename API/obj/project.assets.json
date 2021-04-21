@@ -1287,11 +1287,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ricar\\Desktop\\Proyecto final funda vida\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\ricar\\Desktop\\Proyecto final funda vida\\API-Pedidos\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\ricar\\Desktop\\Proyecto final funda vida\\API\\API.csproj",
+      "projectPath": "C:\\Users\\ricar\\Desktop\\Proyecto final funda vida\\API-Pedidos\\API\\API.csproj",
       "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ricar\\Desktop\\Proyecto final funda vida\\API\\obj\\",
+      "outputPath": "C:\\Users\\ricar\\Desktop\\Proyecto final funda vida\\API-Pedidos\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config",
